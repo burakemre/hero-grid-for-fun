@@ -19,7 +19,6 @@ header {
 
 .header-group {
     display: flex;
-    vertical-align: middle;
     align-items: center;
     flex-grow: 1;
     flex-shrink: 0;
